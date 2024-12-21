@@ -1,0 +1,16 @@
+{
+  "name": {
+    "first": "Daniel",
+    "Last": "Thoman"
+  },
+  "fromWisconsin": false,
+  "numCredits": 6,
+  "major": "Computer Science",
+  "intrests": [
+    "Coffee",
+    "Plants",
+    "Warhammer",
+    "Russian History",
+    "Mycology"
+  ]
+}
